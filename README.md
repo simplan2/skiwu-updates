@@ -78,4 +78,4 @@ Tu apoyo ayuda a mantenerla activa.
 
 | Plataforma | Enlace | Badge |
 |------------|--------|-------|
-| **PayPal** | [paypal.me/JEstban](https://paypal.me/JEstban) | <a href="https://paypal.me/JEstban" target="_blank" rel="noopener noreferrer"> <img src="assets/paypal.png" alt="Donar con PayPal" style="border:0; height:24px;"> </a> |
+| **PayPal** | [paypal.me/JEstban](https://paypal.me/JEstban) | <a href="https://paypal.me/JEstban" target="_blank" rel="noopener noreferrer"> <img src="https://simplan2.github.io/skiwu-updates/assets/paypal.png" alt="Donar con PayPal" style="border:0; height:24px;"> </a> |
