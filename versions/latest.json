@@ -1,7 +1,8 @@
 {
   "version": "1.2.0",
   "releaseDate": "2025-01-20T00:00:00",
-  "downloadUrl": "https://github.com/tu-usuario/tu-app-releases/releases/download/v1.0.0/YourApp.Setup.1.0.0.exe",
+  "downloadUrlExe": "https://github.com/tuusuario/mi-app/releases/download/v1.2.3/Setup.exe",
+  "downloadUrlPortable": "https://github.com/tuusuario/mi-app/releases/download/v1.2.3/AppPortable.zip",
   "changelog": "## Versión Inicial 1.0.0\n\n- ✅ Lanzamiento inicial de la aplicación\n- 🚀 Funcionalidades básicas implementadas\n- 📱 Interfaz de usuario completa",
   "minVersion": "1.0.0",
   "releaseNotesUrl": "https://github.com/tu-usuario/tu-app-releases/releases/tag/v1.0.0"
